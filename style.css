@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+#navbar{
+    text-align: center;
+    height: fit-content;
+    background-color: rgb(11, 11, 169);
+    color: azure;
+}
+#pic{
+    background-color: rgb(79, 79, 182);
+}
+#name{
+    color: azure;
+}
+#para{
+    color: azure;
+}
+button{
+    background-color:black;
+    color: azure;
+    
+}
+#about{
+    background-color:rgb(93, 93, 204); 
+    color: azure;
+}
+#skills{
+    background-color: rgb(38, 38, 174);
+    color: azure;
+}
+#lang{
+    width: 90px;
+    height: 40px;
+}
+#contact{
+    background-color:  rgb(79, 79, 182);
+    color: azure;
+}
+#logo{
+    background-color: rgb(38, 38, 174);
+    color: azure;
+}
+
+
